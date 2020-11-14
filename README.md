@@ -29,6 +29,17 @@
 <table>
   <th>SL</th>
   <th>File/Folder name</th>
+  <th>Summary</th>
+  <tr>
+    <td>1</td>
+    <td>Hello.py</td>
+    <td>A basic window with hello world message</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Button</td>
+    <td>Different kind of button in tkinter</td>
+  </tr>
 </table>
   
 
