@@ -42,6 +42,11 @@
     <td>Button</td>
     <td>Different kind of button in tkinter</td>
   </tr>
+   <tr>
+    <td>3</td>
+    <td>username_password_form</td>
+    <td>simple login form and get credentials in terminal</td>
+  </tr>
 </table>
   
 
